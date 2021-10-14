@@ -50,6 +50,7 @@ gets big.
 - Modeling relationship from one thing to another thing
 - Filtering out duplicates
 - Caching/memorizing data instead of making your server do work
+
 **Recap**
 - You’ll almost never have to implement a hash table yourself. The
 programming language you use should provide an implementation for
