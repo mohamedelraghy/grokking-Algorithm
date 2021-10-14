@@ -45,3 +45,9 @@ search, because O(log n) is so much faster than O(n) when your list
 gets big.
 
 ---
+## chapter 5
+### hases good for:-
+- Modeling relationship from one thing to another thing
+- Filtering out duplicates
+- Caching/memorizing data instead of making your server do work
+
